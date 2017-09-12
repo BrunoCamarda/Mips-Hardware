@@ -1,0 +1,17 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Bruno/Desktop/tste/Tp1/teste_mips_isim_beh.exe -prj C:/Users/Bruno/Desktop/tste/Tp1/teste_mips_beh.prj work.teste_mips work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Bruno/Desktop/tste/Tp1/teste_mips.v" into library work
+ERROR:HDLCompiler:69 - "multiplexador5bits.v" Line 22: <sel> is not declared.
+ERROR:HDLCompiler:715 - "multiplexador5bits.v" Line 28: Port seletor is not defined
+ERROR:HDLCompiler:69 - "multiplexador5bits.v" Line 33: <sel> is not declared.
+ERROR:HDLCompiler:69 - "multiplexador5bits.v" Line 34: <sel> is not declared.
+ERROR:HDLCompiler:598 - "multiplexador5bits.v" Line 21: Module <multiplexador5bits> ignored due to previous errors.
+ERROR:HDLCompiler:598 - "registradores.v" Line 21: Module <registradores> ignored due to previous errors.
+ERROR:HDLCompiler:598 - "extensor.v" Line 21: Module <extensor> ignored due to previous errors.
+ERROR:HDLCompiler:598 - "decodificador.v" Line 21: Module <decodificador> ignored due to previous errors.
+ERROR:HDLCompiler:598 - "dataMemory.v" Line 21: Module <dataMemory> ignored due to previous errors.
+ERROR:HDLCompiler:598 - "C:/Users/Bruno/Desktop/tste/Tp1/teste_mips.v" Line 38: Module <teste_mips> ignored due to previous errors.
+Verilog file C:/Users/Bruno/Desktop/tste/Tp1/teste_mips.v ignored due to errors

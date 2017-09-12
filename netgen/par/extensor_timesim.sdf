@@ -1,0 +1,588 @@
+(DELAYFILE
+  (SDFVERSION "3.0")
+  (DESIGN "extensor")
+  (DATE "Thu Mar 23 09:48:27 2017")
+  (VENDOR "Xilinx")
+  (PROGRAM "Xilinx SDF Writer")
+  (VERSION "P.20131013")
+  (DIVIDER /)
+  (VOLTAGE 0.95)
+  (TEMPERATURE 100)
+  (TIMESCALE 1 ps)
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_9_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2364 )( 2364 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_13_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 921 )( 921 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_14_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 932 )( 932 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_10_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2353 )( 2353 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_15_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 908 )( 908 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_11_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2366 )( 2366 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_12_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2361 )( 2361 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_20_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2360 )( 2360 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_13_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2366 )( 2366 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_21_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2391 )( 2391 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_14_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2373 )( 2373 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_22_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2377 )( 2377 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_30_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2374 )( 2374 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_15_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2376 )( 2376 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_23_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2406 )( 2406 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_31_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2374 )( 2374 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_16_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2375 )( 2375 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_24_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2404 )( 2404 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_17_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2389 )( 2389 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_25_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2386 )( 2386 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_18_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2391 )( 2391 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_26_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2394 )( 2394 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_19_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2359 )( 2359 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_27_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2382 )( 2382 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_28_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2376 )( 2376 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_29_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2374 )( 2374 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_0_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 892 )( 892 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_1_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 928 )( 928 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_2_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 903 )( 903 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_3_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 904 )( 904 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_4_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 914 )( 914 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_5_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 905 )( 905 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_6_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 927 )( 927 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_7_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 909 )( 909 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_8_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 913 )( 913 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_9_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 930 )( 930 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_0_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2389 )( 2389 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_1_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2403 )( 2403 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_2_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2376 )( 2376 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_3_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2392 )( 2392 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_4_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2396 )( 2396 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_5_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2373 )( 2373 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_6_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2400 )( 2400 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_10_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 912 )( 912 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_7_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2377 )( 2377 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_11_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 935 )( 935 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_OBUF")
+    (INSTANCE out_8_OBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 2378 )( 2378 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_IBUF_INTERMDISABLE_TPWRGT")
+    (INSTANCE in_12_IBUF)
+      (DELAY
+        (ABSOLUTE
+          (PORT I ( 0 )( 0 ))
+          (IOPATH I O ( 930 )( 930 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_9_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1773 )( 1773 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_10_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 2136 )( 2136 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_11_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1771 )( 1771 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_12_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 2133 )( 2133 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_13_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1773 )( 1773 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_14_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 2133 )( 2133 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_15_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1773 )( 1773 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_0_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1746 )( 1746 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_1_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1571 )( 1571 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_2_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1571 )( 1571 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_3_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1746 )( 1746 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_4_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1571 )( 1571 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_5_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1746 )( 1746 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_6_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1571 )( 1571 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_7_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 1746 )( 1746 ))
+        )
+      )
+  )
+  (CELL (CELLTYPE "X_BUF")
+    (INSTANCE NlwBufferBlock_out_8_OBUF\/I)
+      (DELAY
+        (PATHPULSE (50))
+        (ABSOLUTE
+          (IOPATH I O ( 2164 )( 2164 ))
+        )
+      )
+  )
+)
